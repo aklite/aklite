@@ -2,7 +2,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=aklite&label=PROFILE+VIEWS)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React based projects.
 - 🌱 I’m currently learning Docker.
